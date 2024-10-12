@@ -1,0 +1,5 @@
+flask
+git+https://github.com/binsu996/audio_memory_io
+soundfile
+librosa
+streamp3
